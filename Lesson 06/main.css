@@ -1,0 +1,17 @@
+html {
+    font-size: 22px;
+}
+
+body {
+    color: whitesmoke;
+    background-color: #333;
+}
+a{
+ color: aliceblue;   
+}
+a:visited{
+    color: lightgray
+}
+a:hover{
+    color: #eee;
+}
