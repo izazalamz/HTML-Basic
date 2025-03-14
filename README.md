@@ -5,19 +5,23 @@ This repository contains my work following Dave Gray's HTML course on YouTube.
 ## Project Structure
 
 HTML Project
-├── Lesson 01 - Basic HTML Structure
-├── Lesson 02 - Understanding HTML Elements
-├── Lesson 03 - Creating Lists and Hyperlinks
-├── Lesson 04 - Working with Forms and Inputs
-├── Lesson 05 - Additional HTML elements and Attributes
-├── Lesson 06 - Working with Images
-├── Lesson 07 - Semantics of a Webpage
-├── Lesson 08 - HTML5 Tables
-└── Lesson 09 - Form Validation
+
+| Lesson #    | Lesson Content                      | 
+| ----------- | ----------------------------------- |
+| 01          | Basic structure of HTML documents   |
+| 02          | Understanding HTML elements         | 
+| 03          | Creating lists and hyperlinks       |
+| 04          | Working with forms and inputs       | 
+| 05          | Navigation and links                |
+| 06          | Working with images                 | 
+| 07          | Semantic HTML for webpages          |
+| 08          | HTML5 tables                        | 
+| 09          | HTML5 Form                          |
+
 
 ## Live Demo
 The final project is hosted on Vercel and can be accessed here:  
-[Live Project](https://html-course.vercel.app)
+[Live Project](html-basic-izaz.vercel.app)
 
 ## Technologies Used
 - HTML5
