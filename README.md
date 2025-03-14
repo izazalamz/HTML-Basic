@@ -21,7 +21,7 @@ HTML Project
 
 ## Live Demo
 The final project is hosted on Vercel and can be accessed here:  
-[Live Project](html-basic-izaz.vercel.app)
+[Live Project]([html-basic-izaz.vercel.app](https://html-basic-izaz.vercel.app/))
 
 ## Technologies Used
 - HTML5
