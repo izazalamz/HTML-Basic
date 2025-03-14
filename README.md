@@ -2,45 +2,20 @@ HTML Course by Dave Gray
 
 This repository contains my work following Dave Gray's HTML course on YouTube. I've structured my learning journey step-by-step, capturing each milestone in individual lesson folders. Below is the summary of each lesson covered:
 
-Lesson
 
 Description
+| Lesson #    | Lesson Content                      | 
+| ----------- | ----------------------------------- |
+| 01          | Basic structure of HTML documents   |
+| 02          | Understanding HTML elements         | 
+| 03          | Creating lists and hyperlinks       |
+| 04          | Working with forms and inputs       | 
+| 05          | Navigation and links                |
+| 06          | Working with images                 | 
+| 07          | Semantic HTML for webpages          |
+| 08          | HTML5 tables                        | 
+| 09          | HTML5 Form                          |
 
-01
-
-Basic structure of HTML documents
-
-02
-
-Understanding HTML elements
-
-03
-
-Creating lists and hyperlinks
-
-04
-
-Working with forms and inputs
-
-05
-
-Navigation and links
-
-06
-
-Working with images
-
-07
-
-Semantic HTML for webpages
-
-08
-
-HTML5 tables
-
-09
-
-Completing HTML fundamentals
 
 Final Project
 
